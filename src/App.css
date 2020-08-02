@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+/*custom*/
+button{
+  padding: 20px;
+  border: 2px solid blue;
+  margin: 10px;
+  font-size: 30px;
+  background: yellow;
+}
+.disabled{
+  pointer-events: none;
+  color: #c0c0c0;
+  background-color: #ffffff;
+  border: 2px solid grey;
+}
